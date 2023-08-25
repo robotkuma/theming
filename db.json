@@ -1,0 +1,10 @@
+{
+  "themes": [
+    {
+      "id": 1,
+      "active": true,
+      "name": "halloween",
+      "logo": "/images/themes/halloween/logo.png"
+    }
+  ]
+}
